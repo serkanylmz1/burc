@@ -1,4 +1,4 @@
 # Gün Ay Bilgilerine Göre Burçlar
-Kolon 1|Kolon2
+KOÇ|BOĞA|İKİZLER|YENGEÇ|ASLAN|BAŞAK|TERAZİ|AKREP|YAY|OĞLAK|KOVA|BALIK
 --------|--------
 Row Elm|Row ELm2
